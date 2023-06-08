@@ -1,0 +1,7 @@
+management:
+  newrelic:
+    metrics:
+      export:
+        apiKey:
+        accountId:
+        step: 10s
